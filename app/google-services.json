@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "274201836048",
+    "project_id": "pardypandatask",
+    "storage_bucket": "pardypandatask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274201836048:android:52ef29744ccd5a37ff2895",
+        "android_client_info": {
+          "package_name": "com.arvind.pardypandataskapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRioOhOSWkMP842OMIuXxymru1cYFBTLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274201836048:android:39f4b48cf443efe6ff2895",
+        "android_client_info": {
+          "package_name": "com.arvind.pardypandataskcomposeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRioOhOSWkMP842OMIuXxymru1cYFBTLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
